@@ -1,0 +1,38 @@
+[33mcommit ad9dc15859c72dfe5a2c901a128a5062f53c18b6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9cdc235 1aef6fa
+Author: Isaias Castro <167316633+Isaias00C@users.noreply.github.com>
+Date:   Mon Aug 25 16:06:09 2025 -0300
+
+    Merge pull request #1 from Isaias00C/SalaoPrincipal
+    
+    add: chao e algumas paredes foram postas no seu devido lugar
+
+[33mcommit 1aef6fa84e7db6874fe9b3c2fb3948778603e6a5[m
+Author: Isaias Castro <isaiascastro2014@gmail.com>
+Date:   Mon Aug 25 15:16:14 2025 -0300
+
+    add: chao e algumas paredes foram postas no seu devido lugar
+
+[33mcommit 9cdc235f93c951a648aed4d6829824a210966991[m[33m ([m[1;31morigin/brazil-scene[m[33m, [m[1;31morigin/SalaoBrasil[m[33m)[m
+Author: Isaias Castro <isaiascastro2014@gmail.com>
+Date:   Mon Aug 25 08:54:08 2025 -0300
+
+    add: README.md
+
+[33mcommit 9bcac91d22414dc22bcec521f857df59da3db7a2[m
+Author: Isaias Castro <isaiascastro2014@gmai.com>
+Date:   Mon Aug 25 08:48:54 2025 -0300
+
+    fix: algumas configuracoes ajeitadas
+
+[33mcommit 815be345034ad510190ce1ab3614e767227108f8[m
+Author: Isaias Castro <isaiascastro2014@gmail.com>
+Date:   Sun Aug 24 20:47:04 2025 -0300
+
+    fix: folder .vsconfig removed
+
+[33mcommit 68bffc7af850a1eb304fe2c0b9c30c9aadf198ce[m
+Author: Isaias Castro <isaiascastro2014@gmail.com>
+Date:   Sun Aug 24 20:42:47 2025 -0300
+
+    first commit
