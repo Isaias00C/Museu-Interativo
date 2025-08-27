@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BrazilDiscovery.unity
+    guid: efff92ff0d845084393f0c61225f3e0a
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 81723fdbb1ae1ba4b9b50309181911bf, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7696fe4e88eb6574aa06301aa0c03ade, type: 2}

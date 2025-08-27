@@ -140,7 +140,11 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: a7e07509dc2c3e04f9e170f0dfc0ef19, type: 2}
+  - {fileID: 5478728711385753071, guid: 7696fe4e88eb6574aa06301aa0c03ade, type: 2}
+  - {fileID: 3683928687456863561, guid: 1e9fb0cf344a73243afd2c6b0421be63, type: 2}
+  - {fileID: 11400000, guid: 81723fdbb1ae1ba4b9b50309181911bf, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -160,7 +164,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.MuseuInterativo
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -250,7 +255,7 @@ PlayerSettings:
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
   templatePackageId: com.unity.template.3d@8.1.3
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
