@@ -78,7 +78,7 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _Density: 1
+    - _Density: 0.699
     - _DepthTransparency: 0.2
     - _DetailNormalMapScale: 1
     - _DistanceFade: 0.5
@@ -112,19 +112,19 @@ Material:
     - _ProbeReflectionIntensity: 0
     - _RealtimeReflectionIntensity: 0.5
     - _ReflectionIntensity: 0.385
-    - _Refraction: 0.4
+    - _Refraction: 0.717
     - _RefractionDistance: 10
     - _RefractionFalloff: 1
     - _ShoreFade: 0.56
     - _ShoreTransparency: 0.5
     - _Specular: 1
     - _SrcBlend: 1
-    - _TransparencyFade: 1
+    - _TransparencyFade: 6.36
     - _UVSec: 0
     - _UnderwaterMode: 0
     - _UnderwaterTranspDist: 13.56
     - _UnderwaterTranspFalloff: 0.78
-    - _WaveSpeed: 0.1
+    - _WaveSpeed: -0.1
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
