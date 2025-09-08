@@ -2,6 +2,7 @@
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
+
         "**/.vs": true,
         "**/.gitmodules": true,
         "**/.vsconfig": true,
@@ -53,6 +54,7 @@
         "logs/": true,
         "ProjectSettings/": true,
         "UserSettings/": true,
+
         "temp/": true,
         "Temp/": true
     },
